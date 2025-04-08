@@ -18,6 +18,9 @@
     "svelte": "^3.49.0"
   },
   "dependencies": {
-    "flot": "^4.2.6"
+    "@nanostores/preact": "^0.5.2",
+    "flowbite": "^2.4.1",
+    "swiper": "^11.2.5",
+    "tailwindcss-scoped-groups": "^2.0.0"
   }
 }
