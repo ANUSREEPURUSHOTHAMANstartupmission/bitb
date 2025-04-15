@@ -42,7 +42,7 @@
     top: 0px;
     left: -35px;
     width: 30px;
-    border-bottom: 40px solid rgba(var(--billdins-base-rgb), 0.9);
+    border-bottom: 40px solid #0e93db;
     border-left: 35px solid transparent;
     transition: all 200ms linear;
     transition-delay: 0.1s;
@@ -68,7 +68,7 @@
     position: relative;
     display: block;
     border: 1px solid rgba(var(--billdins-black-rgb), 0.2);
-    padding: 72px 35px 33px;
+    padding: 72px 35px 0px;
 }
 
 .features-one__single-inner h2 {
